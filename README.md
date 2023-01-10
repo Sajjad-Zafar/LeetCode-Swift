@@ -11,3 +11,4 @@ If you have a better soluton or find an error, feel free to open a PR. Thanks.
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Swift](https://github.com/Sajjad-Zafar/LeetCode-Swift/blob/main/605.%20Can%20Place%20Flowers.playground/Contents.swift)|Easy|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Swift](https://github.com/Sajjad-Zafar/LeetCode-Swift/blob/main/58.%20Length%20of%20Last%20Word.playground/Contents.swift)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Swift](https://github.com/Sajjad-Zafar/LeetCode-Swift/blob/main/771.%20Jewels%20and%20Stones.playground/Contents.swift)|Easy|
+|766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [Swift](https://github.com/Sajjad-Zafar/LeetCode-Swift/blob/main/766.%20Toeplitz%20Matrix.playground/Contents.swift)|Easy|
