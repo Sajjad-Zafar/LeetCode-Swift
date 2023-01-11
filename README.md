@@ -12,3 +12,4 @@ If you have a better soluton or find an error, feel free to open a PR. Thanks.
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Swift](https://github.com/Sajjad-Zafar/LeetCode-Swift/blob/main/58.%20Length%20of%20Last%20Word.playground/Contents.swift)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Swift](https://github.com/Sajjad-Zafar/LeetCode-Swift/blob/main/771.%20Jewels%20and%20Stones.playground/Contents.swift)|Easy|
 |766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [Swift](https://github.com/Sajjad-Zafar/LeetCode-Swift/blob/main/766.%20Toeplitz%20Matrix.playground/Contents.swift)|Easy|
+|746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Swift](https://github.com/Sajjad-Zafar/LeetCode-Swift/blob/main/746.%20Min%20Cost%20Climbing%20Stairs.playground/Contents.swift)|Easy|
