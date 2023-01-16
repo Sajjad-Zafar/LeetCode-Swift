@@ -14,3 +14,4 @@ If you have a better soluton or find an error, feel free to open a PR. Thanks.
 |766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [Swift](https://github.com/Sajjad-Zafar/LeetCode-Swift/blob/main/766.%20Toeplitz%20Matrix.playground/Contents.swift)|Easy|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Swift](https://github.com/Sajjad-Zafar/LeetCode-Swift/blob/main/746.%20Min%20Cost%20Climbing%20Stairs.playground/Contents.swift)|Easy|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Swift](https://github.com/Sajjad-Zafar/LeetCode-Swift/blob/main/832.%20Flipping%20an%20Image.playground/Contents.swift)|Easy|
+|1022|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [Swift](https://github.com/Sajjad-Zafar/LeetCode-Swift/blob/main/832.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.playground/Contents.swift)|Easy|
