@@ -16,3 +16,4 @@ If you have a better soluton or find an error, feel free to open a PR. Thanks.
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Swift](https://github.com/Sajjad-Zafar/LeetCode-Swift/blob/main/832.%20Flipping%20an%20Image.playground/Contents.swift)|Easy|
 |1022|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [Swift](https://github.com/Sajjad-Zafar/LeetCode-Swift/blob/main/832.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.playground/Contents.swift)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/) | [Swift](https://github.com/Sajjad-Zafar/LeetCode-Swift/blob/main/202.%20Happy%20Number.playground/Contents.swift)|Easy|
+|1185|[Day of the Week](https://leetcode.com/problems/day-of-the-week/) | [Swift](https://github.com/Sajjad-Zafar/LeetCode-Swift/blob/main/1185.%20Day%20of%20the%20Week.playground/Contents.swift)|Easy|
